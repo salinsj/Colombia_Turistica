@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo2">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="com.danielsalinasjaramillo.colombia_turistica.MainActivity"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/textViewStyle.tittle"
+            android:text="@string/hoteles"
+            />
+
+        <TextView
+            style="@style/textViewStyle.content"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:text="@string/sixtina"
+            />
+
+        <TextView
+            style="@style/textViewStyle.content"
+            android:text="@string/direccion_sixitina"
+            />
+
+        <ImageView
+            style="@style/imageViewStyle"
+            android:src="@drawable/hotel_sixtina"/>
+
+        <TextView
+            style="@style/textViewStyle.content"
+            android:text="@string/sixitna_descri"
+            />
+
+        <TextView
+            style="@style/textViewStyle.content"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:text="@string/fernando"
+            />
+        <TextView
+            style="@style/textViewStyle.content"
+            android:text="@string/direccion_fernando"
+            />
+
+        <ImageView
+            style="@style/imageViewStyle"
+            android:src="@drawable/hotel_fernando"/>
+
+        <TextView
+            style="@style/textViewStyle.content"
+            android:text="@string/fernando_descri"
+            />
+
+        <TextView
+            style="@style/textViewStyle.content"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:text="@string/ruiseñor"
+            />
+        <TextView
+            style="@style/textViewStyle.content"
+            android:text="@string/direccion_ruiseñor"
+            />
+
+        <ImageView
+            style="@style/imageViewStyle"
+            android:src="@drawable/hotel_ruisenor"/>
+
+        <TextView
+            style="@style/textViewStyle.content"
+            android:text="@string/ruiseñor_descri"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/regresar"
+            android:textSize="20sp"
+            android:text="@string/regresar"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

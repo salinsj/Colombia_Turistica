@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Colombia Turistica</string>
+    <string name="publicidad">Publicidad</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="bares">Bares</string>
+    <string name="turismo">Sitios Turísticos</string>
+    <string name="demografia">Informacion demográfica</string>
+    <string name="acerca">Acerca de</string>
+
+    <string name="itagui">Itagüi</string>
+    <string name="itaslogan">El mejor lugar para estar en familia.</string>
+    <string name="deporte">¿Te gusta el deporte?</string>
+    <string name="deportistas">¡¡Practica en la unidad deportiva Ditaires!!</string>
+    <string name="recreacion">¿Amas la recreacion en familia?</string>
+    <string name="acuaparque">¡¡Ven al acuaparque ditaires!!</string>
+    <string name="teatro">¿Te emociona el arte y la cultura?</string>
+    <string name="festival">¡¡Disfruta del festival del teatro "ciudad de itagüi"!!</string>
+    <string name="invitacion">todo esto y mucho mas te espera en el magnifico municipio de itagüi.</string>
+
+    <string name="sixtina">Sixtina Plaza Hotel</string>
+    <string name="direccion_sixitina">Carrera  50 A #83 29, Itagüí</string>
+    <string name="sixitna_descri">El Sixtina Plaza Hotel dispone de centro de spa y bienestar y ofrece alojamiento con conexión WiFi gratuita en Itagüí. El hotel cuenta con solárium, centro de fitness y restaurante. El parque El Poblado está a 3,4 km.
+
+El Hotel Sixtina Plaza ofrece habitaciones cómodas y luminosas con aire acondicionado, TV de pantalla plana, minibar y caja fuerte. Todas incluyen baño privado, algunos con bañera. Algunas habitaciones gozan de vistas a los alrededores.</string>
+
+    <string name="fernando">Hotel San Fernando Plaza</string>
+    <string name="direccion_fernando">Carrera 42 A No. 1 - 15, Itagüí</string>
+    <string name="fernando_descri"> El Hotel San Fernando Plaza ofrece alojamiento lujoso con una piscina climatizada al aire libre, instalaciones de spa y centro de fitness, en el distrito financiero y comercial. Además alberga un bar y un restaurante.
+
+Las habitaciones del San Fernando Plaza son amplias e incluyen zona de estar, conexión WiFi de alta velocidad y TV vía satélite. Algunas tienen una terraza amplia con vistas a la ciudad.</string>
+
+    <string name="ruiseñor">Hotel Ruiseñor</string>
+    <string name="direccion_ruiseñor">Carrera 49 # 50-71, Itagüí</string>
+    <string name="ruiseñor_descri">El Hotel Ruiseñor se encuentra en Itagüí y ofrece conexión WiFi gratuita en todas sus instalaciones.
+Por las mañanas se sirve un desayuno gratuito.
+
+Las habitaciones del Hotel Ruiseñor disponen de minibar, TV de pantalla plana con canales por cable y ventilador. También incluyen baño privado con ducha, ropa de cama y toallas.</string>
+
+
+    <string name="principito">Bar el principito</string>
+    <string name="direccion_princ">Cr52 68-05 Itagüí, Tel: 3770184</string>
+    <string name="principi_descri">almuerzo, Abierto por la noche, Bebidas, Bar completo, asientos al aire libre, Reservaciones, Asiento, Sirve alcohol, comida para llevar, Televisión, Meseros</string>
+
+    <string name="pupis">Fonda De Arriería Los Pupis</string>
+    <string name="direccion_pupis">Cr63 A 27-21 Itagüí, Tel: 2795530</string>
+    <string name="pupis_descri">Bebidas, almuerzo, Abierto por la noche, cena, asientos al aire libre, Asiento, Meseros, ambiente de bar</string>
+
+    <string name="pinocho">Taberna y Bar Pinochos</string>
+    <string name="direccion_pinoc">Cr50 49-34 Itagüí, Tel: 3764782</string>
+    <string name="pino_descri">almuerzo, Bebidas, Solo efectivo, entrega a domicilio, Wi-Fi gratis, asientos al aire libre, Estacionamiento disponible, Estacionamiento en la calle, comida para llevar, Televisión, Vino y cerveza</string>
+
+    <string name="parque_prin">Parque Principal</string>
+    <string name="parque_princi_descri">Parque más representativo de la cultura itagüiseña, se encuentra en el medio de la ciudad y en el confluyen cientos de personas a diario, para compartir sus ratos de esparcimiento, es también el epicentro de la fe católica municipal, su catedral representa la fe de los fieles.</string>
+
+    <string name="parque_ditaires">Parque Ditaires</string>
+    <string name="parque_ditaires_descri">Este parque se encuentra en estado natural, en el los ciudadanos encuentran el descanso de todo el estrés generado por la ciudad, y pasan agradables momentos en familia o entre amigos, compartiendo con la naturaleza.</string>
+
+    <string name="biblioteca">Biblioteca Diego Echavarria Misas</string>
+    <string name="bibliote_descri">La biblioteca lleva el nombre del notable filántropo Diego Echavarria Misas, para rendirle homenaje por su elevado altruismo, es un centro cultural para el conocimiento, donde todas las personas por igualdad pueden acceder a los saberes allí consignados.</string>
+
+    <string name="informaci_demogra">La población proyectada al 30 de junio de 2012 para el municipio de Itagüí es 258.520 habitantes, siendo ésta la tercera aglomeración urbana del Área Metropolitana del Valle de Aburrá que suma un total de 3.312.165 de personas. El municipio cuenta con una densidad poblacional de aproximadamente 13.545 habitantes por kilómetro cuadrado. El 47.2 % de la población son hombres y el 52,8 % mujeres. La ciudad cuenta con una tasa de analfabetismo del 4.9% en la población mayor de 5 años de edad.
+Los servicios públicos tienen una alta cobertura, ya que un 98,9% de las viviendas cuenta con servicio de energía eléctrica, mientras que un 97,5% tiene servicio de acueducto y un 94,7% de comunicación telefónica.
+Según las cifras de la Gobernación de Antioquia basadas en la encuesta de Calidad de Vida 2004 el estrato socio-económico que predomina en Itagüí es el estrato 3 (medio-bajo) con el 51.2% del total de viviendas del municipio. Le siguen el estrato 2 (bajo) con el 41.7% y el 1 (bajo-bajo) tiene un 6.0%. El estrato 4 (medio) solo se encuentra en un 1.1%.
+</string>
+
+    <string name="daniel">Daniel Salinas Jaramillo</string>
+    <string name="contacto">Datos de contacto:</string>
+    <string name="celular">Celular: 3024448402</string>
+    <string name="correo">Email: leinad.salinsj@gmail.com</string>
+    <string name="perfil">Soy estudiante de último semestre de ingeniería Electrónica en la universidad de Antioquia, desarrollo aplicaciones web y aplicaciones móviles para Android, además diseño sistemas digitales embebidos para darle una mayor aplicabilidad a las aplicaciones que diseño.</string>
+
+    <string name="regresar">Regresar</string>
+
+</resources>

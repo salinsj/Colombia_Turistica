@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hoteles"
+        android:title="@string/hoteles"></item>
+    <item
+        android:id="@+id/bares"
+        android:title="@string/bares"></item>
+    <item
+        android:id="@+id/turismo"
+        android:title="@string/turismo"></item>
+    <item
+        android:id="@+id/demografia"
+        android:title="@string/demografia"></item>
+    <item
+        android:id="@+id/acerca"
+        android:title="@string/acerca"></item>
+</menu>
